@@ -11,6 +11,7 @@ import com.example.fragment_manager2.myinterface.PostClickHandler
 import kotlinx.android.synthetic.main.item_user.view.*
 
 class UserAdapter(
+    //te
     private val clickHandler: PostClickHandler
     ) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
